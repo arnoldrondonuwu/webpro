@@ -1,0 +1,13 @@
+    h1{
+        background-color: yellow;
+        color: blue;
+        border: 3px solid black;
+      }
+    p {
+        color: red;
+      }
+    h2{
+         background color: pink;
+         color: purple;
+         border: 3px solid red;
+      }
